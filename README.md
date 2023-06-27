@@ -13,4 +13,4 @@
 Издательство «Читый лист»
 Космопорт «Черезтерновый Кзвёздный»
 Дизайн-студия имени Слишком Известного Персонажа
-Нас можно найти в google.com.
+Нас можно найти в google.com.](https://github.com/netology-code/git-2-homeworks/blob/main/remote/README.md#список-клиентов)https://github.com/netology-code/git-2-homeworks/blob/main/remote/README.md#список-клиентов
